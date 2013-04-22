@@ -19,3 +19,5 @@ Tecnologias utilizadas:
 - PostGis (Tratamento de registros geográficos)
 - Banco de Dados Postgres
 - JST (JTS Topology Suite - http://www.vividsolutions.com/jts/JTSHome.htm)
+- Maven 3
+- Sprint Framework 3.0.x
